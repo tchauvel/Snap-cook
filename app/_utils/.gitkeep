@@ -1,0 +1,2 @@
+# This file ensures that the _utils directory is recognized and tracked by Git
+# The directory contains utility functions that are not part of the routing system 
