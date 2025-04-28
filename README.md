@@ -1,3 +1,6 @@
+<img width="1685" alt="image" src="https://github.com/user-attachments/assets/f372ab0e-29ef-441f-800e-76f606322737" />
+
+
 # 🍽️ Snap & Cook: Intelligent Recipe Assistant
 
 Snap & Cook is an intelligent recipe recommendation app that uses computer vision and AI to help you discover recipes based on ingredients you already have at home.
